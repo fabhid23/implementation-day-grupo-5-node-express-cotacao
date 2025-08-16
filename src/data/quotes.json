@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "string",
+    "cpf": "12345678901",
+    "birthDate": "2007-08-16",
+    "address": {
+      "street": "string",
+      "neighborhood": "string",
+      "zipCode": "05311000",
+      "city": "string",
+      "state": "sp",
+      "country": "Brasil"
+    },
+    "financingData": {
+      "term": 60,
+      "amount": 200000,
+      "contractDate": "2025-08-16"
+    },
+    "userId": "1",
+    "insuranceAmount": 10000,
+    "createdAt": "2025-08-16T20:42:02.397Z"
+  },
+  {
+    "id": "2",
+    "name": "string",
+    "cpf": "12345678901",
+    "birthDate": "2007-08-16",
+    "address": {
+      "street": "string",
+      "neighborhood": "string",
+      "zipCode": "05311000",
+      "city": "string",
+      "state": "sp",
+      "country": "Brasil"
+    },
+    "financingData": {
+      "term": 60,
+      "amount": 200000,
+      "contractDate": "2025-08-16"
+    },
+    "userId": "1",
+    "insuranceAmount": 10000,
+    "createdAt": "2025-08-16T20:43:12.390Z"
+  },
+  {
+    "id": "3",
+    "name": "string",
+    "cpf": "12345678901",
+    "birthDate": "2007-08-16",
+    "address": {
+      "street": "string",
+      "neighborhood": "string",
+      "zipCode": "05311000",
+      "city": "string",
+      "state": "sp",
+      "country": "Brasil"
+    },
+    "financingData": {
+      "term": 60,
+      "amount": 190000.05,
+      "contractDate": "2025-08-16"
+    },
+    "userId": "1",
+    "insuranceAmount": 9500.0025,
+    "createdAt": "2025-08-16T20:43:34.985Z"
+  }
+]

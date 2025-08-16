@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "$2b$10$YqMxn99pio2Vmkc498de0..EtXakTrT8aZai4doNshj0mzcYt3L8G",
+    "name": "Administrador",
+    "email": "admin@example.com",
+    "cpf": "12345678900",
+    "birthDate": "1990-01-01"
+  }
+]
