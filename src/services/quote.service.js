@@ -30,6 +30,7 @@ const validateCEP = async (cep) => {
 };
 
 const createQuote = async (quoteData) => {
+  console.log('quoteData recebida:', quoteData);
   // Verificar se o usuário existe
   const user = userRepository.findById(quoteData.userId);
   if (!user) {
